@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: impulsocreativo/https://impulso749.github.io/impulsocreativo/
+  repo: impulso749/impulsocreativo
   branch: main
 
 media_folder: "static/uploads"
@@ -13,5 +13,5 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - {"label": "Titolo", "name": "title", "widget": "string"}
-      - {"label": "Contenuto", "name": "body", "widget": "markdown"}
+      - {label: "Titolo", name: "title", widget: "string"}
+      - {label: "Contenuto", name: "body", widget: "markdown"}
