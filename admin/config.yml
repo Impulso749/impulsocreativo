@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: impulsocreativo/TUO-REPO
+  repo: impulsocreativo/https://impulso749.github.io/impulsocreativo/
   branch: main
 
 media_folder: "static/uploads"
