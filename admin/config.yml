@@ -3,7 +3,7 @@ backend:
   repo: impulso749/impulsocreativo
   branch: main
    auth:
-    client_id: TUA_CLIENT_ID
+    client_id: Iv23ctP2dcZrbDCrypjy
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
