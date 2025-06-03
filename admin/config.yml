@@ -2,6 +2,7 @@ backend:
   name: github
   repo: impulso749/impulsocreativo
   branch: main
+  auth_scope: public_repo
    auth:
     client_id: Iv23ctP2dcZrbDCrypjy
 
