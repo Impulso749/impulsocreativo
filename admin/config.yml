@@ -2,6 +2,8 @@ backend:
   name: github
   repo: impulso749/impulsocreativo
   branch: main
+   auth:
+    client_id: TUA_CLIENT_ID
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
